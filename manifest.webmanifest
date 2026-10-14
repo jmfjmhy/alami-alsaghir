@@ -1,0 +1,11 @@
+{
+  "name": "عالمي الصغير - أكاديمية الحروف",
+  "short_name": "عالمي الصغير",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f5ff",
+  "theme_color": "#6046d9",
+  "lang": "ar",
+  "dir": "rtl",
+  "description": "لعبة تعليمية للحروف والكلمات"
+}
